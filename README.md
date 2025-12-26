@@ -2,7 +2,7 @@
 ##
 `S3mphony.ModelSelection` adds an ML-aware decision layer on top of your persisted S3 models, letting you automatically determine which trained model is best suited for predictions — using sane, mathematically sound comparisons over R², RMSE, and training recency.
 
-- It is generic, storage-agnostic, and built for repeated scheduled training runs (like your metrics workers), where every model belongs to the same prediction problem, shares a comparable target scale, and is safely persisted in S3.
+- It is generic, algorithm and metric-agnostic, and built for repeated scheduled training runs (like your metrics workers), where every models can belong to different targets, and is safely persisted in S3.
 - What it gives you:
   - Automatic best-model selection from any number of persisted training runs
   - Quality gates to filter out invalid or underperforming candidates
