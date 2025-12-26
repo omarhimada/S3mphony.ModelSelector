@@ -1,7 +1,8 @@
-﻿using Microsoft.ML.Data;
+﻿using Amazon.S3.Model;
+using Microsoft.ML.Data;
 
 namespace S3mphony.ModelSelector {
-    public static class ModelSelector {
+    public static class SelectionUtility {
         public static RegressionSnapshot? ChooseBest(
             IReadOnlyList<RegressionSnapshot> candidates,
             ModelSelectionPolicy policy,
@@ -82,5 +83,7 @@ namespace S3mphony.ModelSelector {
 
             return best;
         }
+
+        
     }
 }
