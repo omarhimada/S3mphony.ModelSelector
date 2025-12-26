@@ -41,3 +41,21 @@ if (best is not null)
 }
 
 ```
+###
+How it works (from a developer perspective)
+- Candidate models are scanned in S3
+- Metrics are parsed into normalized regression snapshots
+- Invalid models are removed using quality gates
+- Remaining models are ranked using a composite score
+- The best model is returned with model + metric metadata
+- Caller loads the model blob from S3 and predicts
+- All of this is done with minimal boilerplate, no fragile configuration, and no repeated bucket calls, making it ideal for scheduled CI training loops, ML prototypes, and cache-aware inference layers.
+- Designed for clean MLOps flows
+- Whether you're training 100 models or 1,000, S3mphony.ModelSelection treats them as candidates, not static artifacts. Your system always feels intelligent, responsive, and efficient — more like a curated prediction advisor, less like a storage client.
+
+Best practices
+- Use ModelSelection for models trained on the same dataset or target scale
+- Tune policy gates for your problem domain
+- Inject S3Channel into workers or APIs and let it manage caching and concurrency
+- Combine with AddOutputCache() and AddMemoryCache() for fast, non-empty UI hydration
+- Persist only successful training runs for the cleanest candidate pool
