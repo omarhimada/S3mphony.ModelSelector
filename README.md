@@ -59,3 +59,18 @@ Best practices
 - Inject S3Channel into workers or APIs and let it manage caching and concurrency
 - Combine with AddOutputCache() and AddMemoryCache() for fast, non-empty UI hydration
 - Persist only successful training runs for the cleanest candidate pool
+
+```
+TODO:
+1) Selection logic (which model to serve)
+    - Choose min RMSE
+    - tie-break by min MAE
+    - tie-break by max R²
+    - then newest timestamp
+2) Recommendation logic (what options to run next)
+- Given history and current best (rank=20, iters=500):
+- -Generate candidate ranks: {20*2, 20*4, 20*6} → {40, 80, 120}
+- Generate lambda sweep around current best lambda (0.05): {0.01, 0.05, 0.10, 0.20}
+- Anchor LR, alpha, iters constant
+- Remove already-tried configs
+```
