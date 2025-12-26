@@ -11,6 +11,8 @@
   - Recency biasing when metric scores are close
   - Works seamlessly in APIs, workers, dashboards, or prototype MLOps flows
 
+![NuGet Version](https://img.shields.io/nuget/v/S3mphony?style=flat)
+
 ### Example usage
  ```csharp
   // Pull your candidate regression snapshots from persisted model runs in S3
