@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace S3mphony.ModelSelector {
+﻿namespace S3mphony.ModelSelector {
     public sealed class ModelSelectionPolicy {
         // Hard gates
         public double MinRSquared { get; init; } = 0.0;           // set higher in prod
