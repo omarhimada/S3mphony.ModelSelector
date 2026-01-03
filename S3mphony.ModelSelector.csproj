@@ -21,12 +21,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
-    <PackageReference Include="S3mphony" Version="2025.12.26.436" />
+    <None Remove="appsettings.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReadyDos\Shared\Shared.csproj" />
+    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReadyDOS.Shared.csproj" />
+    <ProjectReference Include="..\S3mphony\S3mphony.csproj" />
   </ItemGroup>
 
   <ItemGroup>

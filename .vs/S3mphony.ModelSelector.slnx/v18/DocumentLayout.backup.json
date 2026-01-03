@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\RegressionSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegressionSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelectionPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ModelSelectionPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ModelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\.github\\workflows\\dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\S3StorageUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\MetricsStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\S3mphony.ModelSelector.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S3mphony.ModelSelector.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a4ad204-3623-4e03-b2d1-6fef94652174}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-26T09:56:27.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dotnet.yml",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\.github\\workflows\\dotnet.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\dotnet.yml",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\.github\\workflows\\dotnet.yml",
+              "RelativeToolTip": ".github\\workflows\\dotnet.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-26T08:22:52.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "S3mphony.ModelSelector.csproj",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\S3mphony.ModelSelector.csproj",
+              "RelativeDocumentMoniker": "S3mphony.ModelSelector.csproj",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\S3mphony.ModelSelector.csproj",
+              "RelativeToolTip": "S3mphony.ModelSelector.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T08:11:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "S3StorageUtility.cs",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\S3StorageUtility.cs",
+              "RelativeDocumentMoniker": "..\\ReadyDOS\\WorkerService\\Storage\\S3StorageUtility.cs",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\S3StorageUtility.cs",
+              "RelativeToolTip": "..\\ReadyDOS\\WorkerService\\Storage\\S3StorageUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:06:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetricsStorage.cs",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\MetricsStorage.cs",
+              "RelativeDocumentMoniker": "..\\ReadyDOS\\WorkerService\\Storage\\MetricsStorage.cs",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\ReadyDOS\\WorkerService\\Storage\\MetricsStorage.cs",
+              "RelativeToolTip": "..\\ReadyDOS\\WorkerService\\Storage\\MetricsStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:06:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-26T08:04:28.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegressionSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\RegressionSnapshot.cs",
+              "RelativeDocumentMoniker": "RegressionSnapshot.cs",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\RegressionSnapshot.cs",
+              "RelativeToolTip": "RegressionSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:02:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelSelectionPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelectionPolicy.cs",
+              "RelativeDocumentMoniker": "ModelSelectionPolicy.cs",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelectionPolicy.cs",
+              "RelativeToolTip": "ModelSelectionPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:02:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelSelector.cs",
+              "DocumentMoniker": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelector.cs",
+              "RelativeDocumentMoniker": "ModelSelector.cs",
+              "ToolTip": "C:\\Users\\adosi\\source\\repos\\S3mphony.ModelSelector\\ModelSelector.cs",
+              "RelativeToolTip": "ModelSelector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:00:46.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
