@@ -14,17 +14,15 @@
     <releaseNotes>Putting the pieces together.</releaseNotes>
     <copyright>MIT</copyright>
     <tags>ml,s3,aws,azure,matrix factorization,ml ops</tags>
-    <repository type="git" url="https://github.com/omarhimada/S3mphony.ModelSelector" commit="3a4e5aba81caf73a0a5e61dba88d6838691c70e6" />
+    <repository type="git" url="https://github.com/omarhimada/S3mphony.ModelSelector" commit="d0830df0d1fb354ddbb7e035c8ffaf572b40544b" />
     <dependencies>
       <group targetFramework="net10.0">
-        <dependency id="ReadyDOS.ML.ReadyDOS.Shared" version="1.0.0" exclude="Build,Analyzers" />
-        <dependency id="S3mphony" version="1.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.ML" version="5.0.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\adosi\source\repos\ReadyDOS.Public\S3mphony.ModelSelector\bin\Debug\net10.0\S3mphony.ModelSelector.dll" target="lib\net10.0\S3mphony.ModelSelector.dll" />
-    <file src="C:\Users\adosi\source\repos\ReadyDOS.Public\S3mphony.ModelSelector\README.md" target="\README.md" />
+    <file src="C:\Users\adosi\source\repos\S3mphony.ModelSelector\bin\Debug\net10.0\S3mphony.ModelSelector.dll" target="lib\net10.0\S3mphony.ModelSelector.dll" />
+    <file src="C:\Users\adosi\source\repos\S3mphony.ModelSelector\README.md" target="\README.md" />
   </files>
 </package>

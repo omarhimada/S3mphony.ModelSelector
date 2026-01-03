@@ -1,6 +1,4 @@
-﻿using ReadyDOS.Shared.Work.Interfaces;
-
-namespace S3mphony.ModelSelector.Utility {
+﻿namespace S3mphony.ModelSelector.Utility {
     /// <summary>
     /// Specifies the source or metric used to calculate a model's score in evaluation scenarios.
     /// </summary>

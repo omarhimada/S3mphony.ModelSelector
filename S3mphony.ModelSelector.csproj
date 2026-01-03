@@ -1,43 +1,38 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Title>S3mphony.ModelSelection</Title>
-    <Authors>$(AssemblyName),omarhimada</Authors>
-    <Company>$(Authors),ReadyDOS,omarhimada</Company>
-    <Description>Use S3mphony to retrieve model metrics and then practical design for automatic model selection based on metrics like R² (higher is better) and RMSE (lower is better), without getting fragile.</Description>
-    <Copyright>MIT</Copyright>
-    <PackageProjectUrl>https://github.com/omarhimada/S3mphony.ModelSelector</PackageProjectUrl>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/omarhimada/S3mphony.ModelSelector</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
-    <PackageTags>ml,s3,aws,azure,matrix factorization,ml ops</PackageTags>
-    <PackageReleaseNotes>Putting the pieces together.</PackageReleaseNotes>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<TargetFramework>net10.0</TargetFramework>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Title>S3mphony.ModelSelection</Title>
+	<Authors>$(AssemblyName),omarhimada</Authors>
+	<Company>$(Authors),ReadyDOS,omarhimada</Company>
+	<Description>Use S3mphony to retrieve model metrics and then practical design for automatic model selection based on metrics like R² (higher is better) and RMSE (lower is better), without getting fragile.</Description>
+	<Copyright>MIT</Copyright>
+	<PackageProjectUrl>https://github.com/omarhimada/S3mphony.ModelSelector</PackageProjectUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<RepositoryUrl>https://github.com/omarhimada/S3mphony.ModelSelector</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>ml,s3,aws,azure,matrix factorization,ml ops</PackageTags>
+	<PackageReleaseNotes>Putting the pieces together.</PackageReleaseNotes>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="appsettings.json" />
+	<None Remove="appsettings.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
+	<PackageReference Include="Microsoft.ML" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReadyDOS.Shared.csproj" />
-    <ProjectReference Include="..\S3mphony\S3mphony.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="README.md">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
+		<None Update="README.md">
+	  <Pack>True</Pack>
+	  <PackagePath>\</PackagePath>
+	</None>
   </ItemGroup>
 
 </Project>

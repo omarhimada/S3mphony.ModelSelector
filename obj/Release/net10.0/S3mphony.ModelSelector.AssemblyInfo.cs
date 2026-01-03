@@ -18,7 +18,7 @@ using System.Reflection;
     "del selection based on metrics like R² (higher is better) and RMSE (lower is bet" +
     "ter), without getting fragile.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4e5aba81caf73a0a5e61dba88d6838691c70e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0830df0d1fb354ddbb7e035c8ffaf572b40544b")]
 [assembly: System.Reflection.AssemblyProductAttribute("S3mphony.ModelSelector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S3mphony.ModelSelector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
